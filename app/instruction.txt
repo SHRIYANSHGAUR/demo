@@ -1,0 +1,43 @@
+1. Unzip folder
+=-------------------------------------=
+2. install python from internet, need to have python installed before running.
+=---------------------------------------=
+
+####  Now goto command prompt  & copy paste the commands
+
+
+
+cd Downloads\AirDribble\app
+pip install flask opencv-contrib-python mediapipe numpy
+python app.py
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Or follow step by step
+
+
+
+
+3.Move to product
+
+cd Downloads\AirDribble\app
+
+=-----------------------------=
+
+
+4.Install dependencies
+ 
+pip install flask opencv-contrib-python mediapipe numpy
+
+=---------------------------=
+
+
+5.Run
+
+python app.py
+
+
+=--------------------------------==
